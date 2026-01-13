@@ -1,6 +1,6 @@
 # ACLNet
 
-This is the official PyTorch implementation for "ACLNet: Affinity Contrastive Learning for Skeleton-based Action Recognition".
+This is the official PyTorch implementation for "Affinity Contrastive Learning for Skeleton-based Human Activity Understanding".
 
 ## Installation
 
@@ -64,3 +64,4 @@ For the detailed performance of pretrained models, please go to the [Model Doc](
 This repo is mainly based on [PYSKL](https://github.com/kennymckormick/pyskl). We also refer to [MS-G3D](https://github.com/kenziyuliu/ms-g3d), [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), and [FR-Head](https://github.com/zhysora/FR-Head).
 
 Thanks to the original authors for their excellent work!
+
