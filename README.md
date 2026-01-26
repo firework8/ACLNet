@@ -1,6 +1,6 @@
 # ACLNet
 
-PyTorch implementation of "Affinity Contrastive Learning for Skeleton-based Human Activity Understanding" [[PDF](https://arxiv.org/pdf/2601.16694)] [[Hugging Face](https://huggingface.co/firework8/ACLNet)]
+This is the official PyTorch implementation for "Affinity Contrastive Learning for Skeleton-based Human Activity Understanding". [[PDF](https://arxiv.org/pdf/2601.16694)] [[Hugging Face](https://huggingface.co/firework8/ACLNet)]
 
 ## Installation
 
@@ -81,3 +81,4 @@ If you find ACLNet useful in your research, please consider citing our paper:
 ## Contact
 
 For any questions, feel free to contact: `hongda.liu@cripac.ia.ac.cn`
+
